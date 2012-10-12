@@ -5,5 +5,7 @@ void main()
 {
 
 	printf("Hello!");
+	
+	printf("How are you?");
 
 }
